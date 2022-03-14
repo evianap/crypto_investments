@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://github.com/evianap/crypto_investments_/blob/main/images/10-5-challenge-image.png" alt="Crypto">
+    <img src="https://github.com/evianap/crypto_investments/blob/main/images/10-5-challenge-image.png" alt="Crypto">
   </a>
 
   <h3 align="center">Crypto Investing</h3>
@@ -42,9 +42,9 @@
 
 <p>PCA is applied and contrasted agains the original data<p/>
 
-<p align="center"><img src="https://github.com/evianap/cryto_investments/blob/main/images/Elbows.png" alt="Elbows"><p/>
+<p align="center"><img src="https://github.com/evianap/crypto_investments/blob/main/images/Elbows.png" alt="Elbows"><p/>
 
-<p align="center"><img src="https://github.com/evianap/cryto_investments/blob/main/images/Clusters.png" alt="Clusters"><p/>
+<p align="center"><img src="https://github.com/evianap/crypto_investments/blob/main/images/Clusters.png" alt="Clusters"><p/>
 
 
 
